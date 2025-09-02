@@ -23,7 +23,6 @@ Welcome to my personal cybersecurity lab portfolio. As a SOC Analyst and cyberse
 - **Virtualisation:** VirtualBox with Kali Linux, Windows 10, and Windows 8
 - **SIEM Stack:** Elastic Stack with Wazuh integration
 - **Monitoring Agents:** Sysmon + Winlogbeat for endpoint telemetry
-- 
 
 ## 📌 Next Steps
 - Publishing detailed write-ups and screenshots for each lab
